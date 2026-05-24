@@ -1,0 +1,27 @@
+{
+  "repo_notes": [
+    {
+      "content": ""
+    }
+  ],
+  "pages": [
+    {
+      "title": "Project Overview",
+      "purpose": "High-level introduction to QAE-BAC: its research goals, system architecture, key components, and how the modules fit together. Links to child pages for deeper coverage.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Getting Started",
+      "purpose": "Setup instructions: Go module dependencies, MySQL database configuration, Hyperledger Fabric network prerequisites, and how to run the simulation and tests.",
+      "parent": "Project Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    }
+}
